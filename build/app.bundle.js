@@ -67,10 +67,8 @@
 /* 0 */
 /***/ (function(module, exports, __webpack_require__) {
 
-var log = __webpack_require__(1);
+const log = __webpack_require__(1);
 log('hello world');
-
-
 
 /***/ }),
 /* 1 */
