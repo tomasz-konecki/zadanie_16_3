@@ -1,2 +1,2 @@
 const log = require('./log');
-log('hello world');
+document.getElementById('element').appendChild(log);
